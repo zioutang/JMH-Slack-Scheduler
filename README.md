@@ -21,7 +21,7 @@ We used API.AI to transfer human natural language into a form that the Scheduler
 We used slack real time npm package to allow users to communicate with slack.
 Finally we designed seamless OAuth flow for Google Calendar inside Slack.
 
-## The basic working logic is: 
+## The basic working logic: 
 
 User typying the event to schedule (who when what) -----> slack received the message and send the message to API.AI 
 -----> slack recieved the response from API.AI and form the data that is suitbale for google calendar -----> user confirm the event and grant the permission to google 
