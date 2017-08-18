@@ -12,10 +12,10 @@ Scheduler Bot solves a real customer problem by streamlining workflow for a very
 
 ## Some key features:
 
-1.Scheduler Bot works as an add-on to slack. 
-1.User only need to type their commmand in natural language in the slack channel.
-1.Scheduler Bot is able to understand the language and response properly, for example, scheduling a meeting with other group members.
-1.Scheduler Bot is able to do interactive process for statefully managing multi-step chat interactions such as scheduling conflicts,   cancellations, and confirmations.
+1. Scheduler Bot works as an add-on to slack. 
+1. User only need to type their commmand in natural language in the slack channel.
+1. Scheduler Bot is able to understand the language and response properly, for example, scheduling a meeting with other group members.
+1. Scheduler Bot is able to do interactive process for statefully managing multi-step chat interactions such as scheduling conflicts,   cancellations, and confirmations.
 
 ## Main Technologies Utilized:
 
