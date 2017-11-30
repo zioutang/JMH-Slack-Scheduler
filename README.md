@@ -2,7 +2,7 @@
 
 
 
-## The purpose of this project:
+## The Purpose of This Project:
 
 Productivity is hard to come by in fast-paced work environments.
 Dozens of browsers tabs, desktop apps, and mobile notifications drown your ability to focus and concentrate. 
@@ -10,7 +10,7 @@ As companies like Google, Facebook, Amazon and IBM continue to build powerful AI
 Scheduler Bot solves a real customer problem by streamlining workflow for a very large, immediately addressable market (teams who schedules meetings and use Slack) at the exact right time (advent of new powerful, easy-to-use AI technologies + proliferation of software tools used on job)
 
 
-## Some key features:
+## Some Key Features:
 
 • Built Intelligent Slack bot that allows creating Google Calendar invites and reminders using natural language queries.
 
