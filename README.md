@@ -1,4 +1,4 @@
-# JMH-Slack-Scheduler 
+# Smart Reminder 
 
 
 
