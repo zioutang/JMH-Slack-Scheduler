@@ -13,8 +13,11 @@ Scheduler Bot solves a real customer problem by streamlining workflow for a very
 ## Some key features:
 
 • Built Intelligent Slack bot that allows creating Google Calendar invites and reminders using natural language queries.
+
 • Architected interactive process for statefully managing multi-step chat interactions such as scheduling conflicts, cancellations, and confirmations.
+
 • Implemented Slack Real-time Messaging API and interactive Messages to facilitate meeting and reminder creation within Slack.
+
 • Designed seamless OAuth flow for Google Calendar inside Slack.
 
 ## Main Technologies Utilized:
