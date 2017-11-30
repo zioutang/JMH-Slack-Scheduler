@@ -12,21 +12,12 @@ Scheduler Bot solves a real customer problem by streamlining workflow for a very
 
 ## Some key features:
 
-1. Scheduler Bot works as an add-on to slack. 
-1. User only need to type their commmand in natural language in the slack channel.
-1. Scheduler Bot is able to understand the language and response properly, for example, scheduling a meeting with other group members.
-1. Scheduler Bot is able to do interactive process for statefully managing multi-step chat interactions such as scheduling conflicts,   cancellations, and confirmations.
+• Built Intelligent Slack bot that allows creating Google Calendar invites and reminders using natural language queries.
+• Architected interactive process for statefully managing multi-step chat interactions such as scheduling conflicts, cancellations, and confirmations.
+• Implemented Slack Real-time Messaging API and interactive Messages to facilitate meeting and reminder creation within Slack.
+• Designed seamless OAuth flow for Google Calendar inside Slack.
 
 ## Main Technologies Utilized:
 
-We used API.AI to transfer human natural language into a form that the Scheduler Bot can understand and be able to response.
-We used slack real time npm package to allow users to communicate with slack.
-Finally we designed seamless OAuth flow for Google Calendar inside Slack.
+API.AI; Node.js; Express; Google Calendar API; Slack real time npm package;
 
-## The basic working logic: 
-
- User typying the event to schedule (who when what) 
- -----> slack received the message and send the message to API.AI 
- -----> slack recieved the response from API.AI and form the data that is suitbale for google calendar 
- -----> user confirm the event and grant the permission to google 
- 
